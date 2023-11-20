@@ -1,3 +1,3 @@
 # GitHub_Graph
  A commit graph
-Name: OreOluwa
+Name: OreOluwa Ola
