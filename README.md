@@ -1,3 +1,3 @@
 # GitHub_Graph
  A commit graph
-Course:
+Course: CSCI 3323
